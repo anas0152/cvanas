@@ -1,0 +1,26 @@
+/* Définir des styles généraux pour le corps de la page */
+body {
+    font-family: "Roboto", sans-serif; /* Police principale */
+    font-size: 16px; /* Taille du texte par défaut */
+    font-weight: 300; /* Poids du texte léger */
+    /* font-style: italic; */ /* Option pour mettre le texte en italique */
+}
+
+/* Style pour les titres principaux */
+h1 {
+    color: rgb(202, 33, 33); /* Couleur rouge foncé */
+    font-size: 48px; /* Taille de la police */
+    font-family: "Poppins", sans-serif; /* Police pour h1 */
+}
+
+/* Style pour les sous-titres */
+h2 {
+    color: rgb(243, 103, 103); /* Couleur rouge clair */
+    font-size: 36px; /* Taille du texte */
+    font-family: "Faculty Glyphic", sans-serif; /* Police pour h2 */
+}
+
+/* Style pour les liens */
+a {
+    text-decoration: none; /* Supprimer le soulignement par défaut des liens */
+}
